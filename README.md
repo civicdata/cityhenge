@@ -8,7 +8,7 @@ http://cartodb.com/case-studies/nychenge/
 
 ### SOTMUS
 
-The original presentation was given at the 2013 SOTMUS Conference. [Watch it here](vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68096664).
+The original presentation was given at the 2013 SOTMUS Conference. [Watch it here](http://vimeopro.com/openstreetmapus/state-of-the-map-us-2013/video/68096664).
 
 ### Visualization developed using 
 
